@@ -6,7 +6,8 @@
 - 🔭 **Currently working on building a chat application**
 - 🤝 **Member of the ACM Student Chapter at Amritapuri**
 - 🤔 **Also learning Web Development and SQL**
-- ⚡ **Fun Fact: I love using emoticons!**
+- 😍 **Schwags and goodies drive me crazy!**
+- ⚡ **Fun Fact: I love using emojis!**
 
 ### Languages I Use:
 <div align="center">   
