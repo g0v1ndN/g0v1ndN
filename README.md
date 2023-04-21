@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Govind S Nair 👋</h1>
-<img align="right" alt="Coding" width="250" src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/GIFs/Coding.gif">
+<!-- <img align="right" alt="Coding" width="250" src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/GIFs/Coding.gif"> -->
 
 ### About Me:
 - 🌱 **Pursuing a Bachelors at Computer Applications and Data Science from Amrita Vishwa Vidyapeetham**
