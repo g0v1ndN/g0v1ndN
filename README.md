@@ -18,6 +18,7 @@
 <img style="margin: 10px" src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/CSS.png" alt="CSS3" height="60"/>
 <img style="margin: 10px" src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/PostgreSQL.png" alt="PostgreSQL" height="60"/>
 <img style="margin: 10px" src= "https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/React.png" alt="React" height="60"/>
+<img style="margin: 10px" src= "https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/Git.png" alt="Git" height="60"/>
 </div>
 <br>
 <!-- <img src="https://holopin.io/api/user/board?user=g0v1nd"/> -->
