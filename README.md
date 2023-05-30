@@ -11,15 +11,14 @@
 
 ### Languages and Tools I Use:
 <div align="center">
+  <img style="margin: 10px" src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/Python.png" alt="Python" height="60"/>
+  <img style="margin: 10px" src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/PostgreSQL.png" alt="PostgreSQL" height="60"/>
+  <img style="margin: 10px" src= "https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/Git.png" alt="Git" height="60"/>
+  <img style="margin: 10px" src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/JavaScript.png" alt="JavaScript" height="60"/>
   <img style="margin: 10px" src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/HTML.png" alt="HTML5" height="60"/>
   <img style="margin: 10px" src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/CSS.png" alt="CSS3" height="60"/>
-  <img style="margin: 10px" src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/JavaScript.png" alt="JavaScript" height="60"/>
-  <img style="margin: 10px" src= "https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/Git.png" alt="Git" height="60"/>
-  <img style="margin: 10px" src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/Python.png" alt="Python" height="60"/>
-  <img style="margin: 10px" src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/Java.png" alt="Java" height="60"/>
-  <img style="margin: 10px" src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/MySQL.png" alt="MySQL" height="60"/>
-  <img style="margin: 10px" src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/PostgreSQL.png" alt="PostgreSQL" height="60"/>
   <img style="margin: 10px" src= "https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/React.png" alt="React" height="60"/>
+  <img style="margin: 10px" src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/Java.png" alt="Java" height="60"/>
   
 </div>
 <br>
