@@ -14,28 +14,44 @@
   <table>
     <tr>
       <td>
-        <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/Python.png" alt="Python" height="60"/>
+        <a href="https://www.python.org" target="_blank">
+          <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/Python.png" alt="Python" height="60"/>
+        </a>
       </td>
       <td>
-        <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/PostgreSQL.png" alt="PostgreSQL" height="60"/>
+        <a href="https://www.postgresql.org" target="_blank">
+          <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/PostgreSQL.png" alt="PostgreSQL" height="60"/>
+        </a>
       </td>
       <td>
-        <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/Git.png" alt="Git" height="60"/>
+        <a href="https://git-scm.com" target="_blank">
+          <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/Git.png" alt="Git" height="60"/>
+        </a>
       </td>
       <td>
-        <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/JavaScript.png" alt="JavaScript" height="60"/>
+        <a href="https://www.javascript.com" target="_blank">
+          <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/JavaScript.png" alt="JavaScript" height="60"/>
+        </a>
       </td>
       <td>
-        <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/HTML.png" alt="HTML5" height="60"/>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+          <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/HTML.png" alt="HTML5" height="60"/>
+        </a>
       </td>
       <td>
-        <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/CSS.png" alt="CSS3" height="60"/>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+          <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/CSS.png" alt="CSS3" height="60"/>
+        </a>
       </td>
       <td>
-        <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/React.png" alt="React" height="60"/>
+        <a href="https://reactjs.org" target="_blank">
+          <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/React.png" alt="React" height="60"/>
+        </a>
       </td>
       <td>
-        <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/Java.png" alt="Java" height="60"/>
+        <a href="https://www.java.org" target="_blank">
+          <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/Java.png" alt="Java" height="60"/>
+        </a>
       </td>
     </tr>
   </table>
