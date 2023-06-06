@@ -44,7 +44,7 @@
         </a>
       </td>
       <td>
-        <a href="https://reactjs.org" target="_blank">
+        <a href="https://react.dev" target="_blank">
           <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/React.png" alt="React" height="60"/>
         </a>
       </td>
