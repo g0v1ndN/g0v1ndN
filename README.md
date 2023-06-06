@@ -9,17 +9,37 @@
 - 😍 **Schwags and goodies drive me crazy!**
 - ⚡ **Fun Fact: I love using emojis!**
 
-### Languages and Tools I Use:
+### Languages & Tools I Use:
 <div align="center">
-  <img style="margin: 10px" src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/Python.png" alt="Python" height="60"/>
-  <img style="margin: 10px" src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/PostgreSQL.png" alt="PostgreSQL" height="60"/>
-  <img style="margin: 10px" src= "https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/Git.png" alt="Git" height="60"/>
-  <img style="margin: 10px" src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/JavaScript.png" alt="JavaScript" height="60"/>
-  <img style="margin: 10px" src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/HTML.png" alt="HTML5" height="60"/>
-  <img style="margin: 10px" src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/CSS.png" alt="CSS3" height="60"/>
-  <img style="margin: 10px" src= "https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/React.png" alt="React" height="60"/>
-  <img style="margin: 10px" src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/Java.png" alt="Java" height="60"/>
-  
+  <table>
+    <tr>
+      <td>
+        <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/Python.png" alt="Python" height="60"/>
+      </td>
+      <td>
+        <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/PostgreSQL.png" alt="PostgreSQL" height="60"/>
+      </td>
+      <td>
+        <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/Git.png" alt="Git" height="60"/>
+      </td>
+      <td>
+        <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/JavaScript.png" alt="JavaScript" height="60"/>
+      </td>
+      <td>
+        <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/HTML.png" alt="HTML5" height="60"/>
+      </td>
+      <td>
+        <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/CSS.png" alt="CSS3" height="60"/>
+      </td>
+      <td>
+        <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/React.png" alt="React" height="60"/>
+      </td>
+      <td>
+        <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/Java.png" alt="Java" height="60"/>
+      </td>
+    </tr>
+  </table>
 </div>
+
 <br>
 <!-- <img src="https://holopin.io/api/user/board?user=g0v1nd"/> -->
