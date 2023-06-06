@@ -29,7 +29,7 @@
         </a>
       </td>
       <td>
-        <a href="https://www.javascript.com" target="_blank">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
           <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/JavaScript.png" alt="JavaScript" height="60"/>
         </a>
       </td>
