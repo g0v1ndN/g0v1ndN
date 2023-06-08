@@ -49,7 +49,7 @@
         </a>
       </td>
       <td>
-        <a href="https://www.java.org" target="_blank">
+        <a href="https://www.java.com" target="_blank">
           <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/Java.png" alt="Java" height="60"/>
         </a>
       </td>
