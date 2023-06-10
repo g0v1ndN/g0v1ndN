@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Govind S Nair 👋</h1>
-<!-- <img align="right" alt="Coding" width="250" src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/GIFs/Coding.gif"> -->
 
 ### About Me:
 - 🌱 **Pursuing a Bachelors at Computer Applications and Data Science from Amrita Vishwa Vidyapeetham**
@@ -57,5 +56,7 @@
   </table>
 </div>
 
-<br>
-<!-- <img src="https://holopin.io/api/user/board?user=g0v1nd"/> -->
+<!-- ### Sticker Showcase:
+<div>
+  <img src="https://holopin.io/api/user/board?user=g0v1nd"/>
+</div> -->
