@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Govind S Nair 👋</h1>
 
-### About Me:
+## About Me:
 - 🌱 **Pursuing a Bachelors at Computer Applications and Data Science from Amrita Vishwa Vidyapeetham**
 - 🔭 **Currently working on building a chat application**
 - 🤝 **Member of the ACM Student Chapter at Amritapuri**
@@ -8,7 +8,7 @@
 - 😍 **Schwags and goodies drive me crazy!**
 - ⚡ **Fun Fact: I love using emojis!**
 
-### Languages & Tools I Use:
+## Languages & Tools I Use:
 <div align="center">
   <table>
     <tr>
@@ -56,7 +56,7 @@
   </table>
 </div>
 
-### Sticker Showcase:
+## Sticker Showcase:
 <div>
   <img src="https://holopin.io/api/user/board?user=g0v1nd"/>
 </div>
