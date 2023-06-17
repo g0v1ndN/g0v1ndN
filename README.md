@@ -56,7 +56,7 @@
   </table>
 </div>
 
-<!-- ### Sticker Showcase:
+### Sticker Showcase:
 <div>
   <img src="https://holopin.io/api/user/board?user=g0v1nd"/>
-</div> -->
+</div>
