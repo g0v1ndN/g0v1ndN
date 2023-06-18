@@ -10,52 +10,32 @@
 
 ## Languages & Tools I Use:
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://www.python.org" target="_blank">
-          <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/Python.png" alt="Python" height="60"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://www.postgresql.org" target="_blank">
-          <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/PostgreSQL.png" alt="PostgreSQL" height="60"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://git-scm.com" target="_blank">
-          <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/Git.png" alt="Git" height="60"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-          <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/JavaScript.png" alt="JavaScript" height="60"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-          <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/HTML.png" alt="HTML5" height="60"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-          <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/CSS.png" alt="CSS3" height="60"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://react.dev" target="_blank">
-          <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/React.png" alt="React" height="60"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://www.java.com" target="_blank">
-          <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/Java.png" alt="Java" height="60"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/Python.png" alt="Python" height="60"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/PostgreSQL.png" alt="PostgreSQL" height="60"/>
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/Java.png" alt="Java" height="60"/>
+  </a>
+  <a href="https://git-scm.com" target="_blank">
+    <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/Git.png" alt="Git" height="60"/>
+  </a>
+  <a href="https://react.dev" target="_blank">
+    <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/React.png" alt="React" height="60"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/HTML.png" alt="HTML5" height="60"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/CSS.png" alt="CSS3" height="60"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/JavaScript.png" alt="JavaScript" height="60"/>
+  </a>
 </div>
-
+    
 ## Sticker Showcase:
 <div>
   <img src="https://holopin.io/api/user/board?user=g0v1nd"/>
