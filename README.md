@@ -19,14 +19,8 @@
   <a href="https://www.java.com" target="_blank">
     <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/Java.png" alt="Java" height="60"/>
   </a>
-  <a href="https://github.com">
-    <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/GitHub.png" alt="GitHub" height="60">
-  </a>
-  <a href="https://git-scm.com" target="_blank">
-    <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/Git.png" alt="Git" height="60"/>
-  </a>
-  <a href="https://react.dev" target="_blank">
-    <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/React.png" alt="React" height="60"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/JavaScript.png" alt="JavaScript" height="60"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/HTML.png" alt="HTML5" height="60"/>
@@ -34,8 +28,14 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/CSS.png" alt="CSS3" height="60"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/JavaScript.png" alt="JavaScript" height="60"/>
+  <a href="https://react.dev" target="_blank">
+    <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/React.png" alt="React" height="60"/>
+  </a>
+  <a href="https://git-scm.com" target="_blank">
+    <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/Git.png" alt="Git" height="60"/>
+  </a>
+  <a href="https://github.com">
+    <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/GitHub.png" alt="GitHub" height="60">
   </a>
 </div>
     
