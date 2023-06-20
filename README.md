@@ -3,7 +3,7 @@
 ## About Me:
 - 🌱 **Pursuing a Bachelors at Computer Applications and Data Science from Amrita Vishwa Vidyapeetham**
 - 🔭 **Currently working on building a chat application**
-- 🤝 **Member of the ACM Student Chapter at Amritapuri**
+- 🤝 **Member of the ACM Student Chapter at Amritapuri (2022-2023)**
 - 🤔 **Also learning Web Development and SQL**
 - 😍 **Schwags and goodies drive me crazy!**
 - ⚡ **Fun Fact: I love using emojis!**
