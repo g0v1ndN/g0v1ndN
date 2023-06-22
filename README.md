@@ -35,7 +35,7 @@
     <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/Git.png" alt="Git" height="60"/>
   </a>
   <a href="https://github.com">
-    <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/GitHub.png" alt="GitHub" height="60">
+    <img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/Logos/GitHub.svg" alt="GitHub" height="60">
   </a>
 </div>
 
