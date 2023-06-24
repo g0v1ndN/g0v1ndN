@@ -19,7 +19,6 @@ user.index({
 return response.status(201).send();
 ```
 
-<!-- Sticker Showcase -->
 <div align="center">
   <img src="https://holopin.io/api/user/board?user=g0v1nd"/><hr>
   <img src="https://streak-stats.demolab.com?user=Govind-S-Nair&count_private=true&theme=dark&border_radius=20" alt="GitHub Streak">
