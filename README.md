@@ -13,7 +13,7 @@ user.index({
   know: ['ReactJs', 'NextJs', 'Tailwind CSS', 'Git', 'GitHub'],
   membership: 'ACM Member (Amritapuri, 2022-2023)',
   fun_fact: 'Loves using emojis',
-  hobbies: ['Collecting shwags & goodies']
+  hobbies: ['Web-development', 'Reading', 'Numismatics', 'PC gaming']
 });
 
 return response.status(201).send();
