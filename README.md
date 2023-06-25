@@ -1,4 +1,6 @@
-<h1 align="center"><img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/GIFs/wave.gif" width="40px" height="40px"> Hi, I'm Govind S Nair </h1>
+<h1 align="center"><img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/GIFs/wave.gif" width="40px" height="40px"> Hi, I'm Govind S Nair </h1><hr>
+
+<h2 align="center">About Me</h2>
 
 ```javascript
 user.index({
