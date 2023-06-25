@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://github.com/Govind-S-Nair/Govind-S-Nair/blob/main/GIFs/wave.gif" width="40px" height="40px"> Hi, I'm Govind S Nair </h1><hr>
 
-<h2 align="center">About Me</h2>
+<h3 align="center">About Me</h3>
 
 ```javascript
 user.index({
@@ -22,6 +22,6 @@ return response.status(201).send();
 ```
 
 <div align="center">
-  <hr><h2>Badge Board</h2><img src="https://holopin.io/api/user/board?user=g0v1nd"/><hr>
-  <h2>GitHub Stats</h2><img src="https://streak-stats.demolab.com?user=Govind-S-Nair&count_private=true&theme=dark&border_radius=20" alt="GitHub Streak">
+  <hr><h3>Badge Board</h3><img src="https://holopin.io/api/user/board?user=g0v1nd"/><hr>
+  <h3>GitHub Stats</h3><img src="https://streak-stats.demolab.com?user=Govind-S-Nair&count_private=true&theme=dark&border_radius=20" alt="GitHub Streak">
 </div>
