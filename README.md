@@ -12,8 +12,8 @@ user.index({
   city: 'Vaikom, Kottayam',
   stack: ['Python', 'Java', 'JavaScript', 'HTML5', 'CSS3'],
   database: ['PostgreSQL', 'MySQL'],
-  know: ['Solidity', 'ReactJs', 'NodeJs', 'Tailwind CSS', 'Git', 'GitHub'],
-  preferred_tools: ['Visual Studio Code', 'IntelliJ IDEA', 'JupyterLab', 'Jupyter Notebook'],
+  know: ['Solidity', 'ReactJs', 'NodeJs', 'Tailwind CSS'],
+  preferred_tools: ['Visual Studio Code', 'IntelliJ IDEA', 'JupyterLab', 'Jupyter Notebook', 'Git', 'GitHub'],
   membership: 'ACM Member (Amritapuri, 2022-2023)',
   fun_fact: 'Loves using emojis',
   hobbies: ['Web-development', 'Reading', 'Numismatics', 'PC gaming']
