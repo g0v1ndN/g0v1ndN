@@ -1,4 +1,7 @@
 <h1 align="center"><img src="https://github.com/Govind-S-Nair/AssetVault/blob/main/GIFs/wave.gif" width="40px" height="40px"> Hi, I'm Govind S Nair </h1>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Indian;Data+Enthusiast;Web+Developer;Open+Source+Explorer" alt="Typing SVG" /></a>
+</div>
 
 <h3 align="center">About Me</h3>
 
