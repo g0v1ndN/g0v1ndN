@@ -27,5 +27,5 @@ return response.status(201).send();
 
 <div align="center">
   <hr><h3>Badge Board</h3><a href="https://www.holopin.io/@g0v1nd#"><img src="https://holopin.io/api/user/board?user=g0v1nd"/></a><hr>
-  <h3>GitHub Stats</h3><img src="https://streak-stats.demolab.com?user=g0v1ndN&count_private=true&theme=dark&border_radius=20" alt="GitHub Streak">
+  <h3>GitHub Stats</h3><img src="https://streak-stats.demolab.com?user=g0v1ndN&count_private=true&theme=burnt_neon&border_radius=20" alt="GitHub Streak">
 </div>
